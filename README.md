@@ -32,6 +32,5 @@
 [![](https://visitcount.itsvg.in/api?id=PriyanshuPaul79&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[![An image of @PriyanshuPaul79's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/PriyanshuPaul79)](https://holopin.io/@PriyanshuPaul79)
-
+[![An image of @7priyanshu9's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/7priyanshu9)](https://holopin.io/@7priyanshu9)
 

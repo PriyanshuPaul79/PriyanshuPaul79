@@ -14,6 +14,7 @@
 <a href="https://fb.com/priyanshu paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanshu paul" height="30" width="40" /></a>
 <a href="https://instagram.com/priyanshu79__official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyanshu79__official" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshu_97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu_97" height="30" width="40" /></a>
+ <a href="https://priyanshupaul.vercel.app/" target="blank">My Portfolio</a>
 </p>
 
 

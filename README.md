@@ -5,7 +5,7 @@
  <img src="bg.jpg" alt="Background " width="500" height="200">
 </p>
 # 💫 About Me:
-🔭 I’m currently working on Article Summariser using ML<br><br>🌱 I’m currently learning JavaScript||React||NextJs<br><br>💬 Ask me about Frontend||AI<br><br>📫 How to reach me Priyanshupaul32@gmail.com<br><br>⚡ Fun fact I've coded in multiple programming languages, and I can comfortably switch between them like a multilingual programmer.||I enjoy giving tech talks or mentoring others, sharing my passion for programming with a wider audience ||| I once coded an entire program in a single caffeine-fueled all-nighter.
+🔭 I’m currently working on GenAI <br><br>🌱 I’m currently learning LLM's <br><br>💬 Ask me about Frontend and AI<br><br>📫 How to reach me Priyanshupaul32@gmail.com<br><br>⚡ Fun fact I've coded in multiple programming languages, and I can comfortably switch between them like a multilingual programmer.||I enjoy giving tech talks or mentoring others, sharing my passion for programming with a wider audience ||| I once coded an entire program in a single caffeine-fueled all-nighter.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

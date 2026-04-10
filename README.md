@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Paul</h1>
-<h3 align="center">Aspiring Erudite|| Results-driven || AI enthusiast || Java || Data Structures || Leadership experience || Self learning Developer|| Sketching||</h3>
+<h3 align="center">AI enthusiast || Java || Data Structures || Leadership experience || Self learning Developer|| Sketching||</h3>
 
 <p align="center">
  <img src="bg.jpg" alt="Background " width="500" height="200">

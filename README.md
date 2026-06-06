@@ -8,7 +8,7 @@
 <div align="center">
   
   [![Twitter Badge](https://img.shields.io/badge/-@s1nister79-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/s1nister79)](https://twitter.com/s1nister79)
-  [![LinkedIn Badge](https://img.shields.io/badge/-Priyanshu%20Paul-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/priyanshu-paul)](https://linkedin.com/in/priyanshu-paul)
+  [![LinkedIn Badge](https://img.shields.io/badge/-Priyanshu%20Paul-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/priyanshu-paul)](https://www.linkedin.com/in/priyanshu-paul-77735524p/)
   [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=Chrome&logoColor=white&link=https://priyanshupaul.vercel.app/)](https://priyanshupaul.vercel.app/)
   [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA500?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/priyanshu_97)](https://leetcode.com/priyanshu_97)
   
